@@ -1,0 +1,22 @@
+{
+    "full_name": "Huzaifa Dangote",
+    "name": "Huzaifa",
+    "current_role": "AI Engineer",
+    "location": "Lagos, Nigeria",
+    "email": "huziak51@gmail.com",
+    "linkedin": "linkedin.com/in/huzaifa-dangote-5ab875101",
+    "specialties": [
+      "RAG",
+      "QLoRA",
+      "Agentic AI",
+      "MLOps"
+    ],
+    "years_experience": 1,
+    "education": [
+      {
+        "degree": "Computer Engineering",
+        "institution": "Bells University of Technology",
+        "year": "2015"
+      }
+    ]
+  }
